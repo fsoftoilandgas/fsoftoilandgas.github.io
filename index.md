@@ -22,7 +22,7 @@ The oil and gas industry is potentially one of the most hazardous industry secto
 
 ## Offshore services
 
-| Seismic survey| Drilling | Drilling fluid | Cementing |
+| [Seismic survey](./seismic.html)| Drilling | Drilling fluid | Cementing |
 | Logging while Drilling | Wireline | Gyro survey | Mud logging service |
 | Testing | Production logging | Well integrity | Completion |
 | Artificial Lift | Perforation | Well Intervention | Enhance Oil Recovery |
