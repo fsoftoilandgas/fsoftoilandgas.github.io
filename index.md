@@ -5,13 +5,13 @@ layout: default
 
 * * *
 
-# Safety is NO ACCIDENT!!!
+## Safety is no accident!
 
-First thing first, the oil and gas industry is potentially one of the most **hazardous** industry sectors in the world. Safety is number one concern of every oil operator and oilfield services company. Read more [here.](./safety.html)
+**First thing first**, the oil and gas industry is potentially one of the most **hazardous** industry sectors in the world. Safety is number one concern of every oil operator and oilfield services company. Read more [here.](./safety.html)
 
 * * *
 
-# The Petroleum industry Life Cycle
+## The Petroleum industry Life Cycle
 
 The oil and gas industry is usually divided into three major sectors: **upstream** (or **exploration and production - E&P**), **midstream** and **downstream**.
 
@@ -21,9 +21,9 @@ Click on the links below to explore each of these sectors.
 
 * * *
 
-# Organization in the Oilfield
+## Organization in the Oilfield
 
-There are two types of company in the oil and gas industry: one that own and operate the oilfield, and produce oil related products, called "Oil company" (also called "Operator"), and the other are companies that provide the services to the industry, called "Service company".
+There are two types of company in the oil and gas industry: one that own and operate the oilfield, and produce petroleum related products, called "Oil company" (also called "Operator"), and the other are companies that provide the services to the industry, called "Service company".
 
 This section briefly explains the typical organization structure employed by these two type of company.
 
@@ -31,20 +31,8 @@ This section briefly explains the typical organization structure employed by the
 
 * * *
 
-## Offshore services
+## Miscellaneous
 
-| [Seismic survey](./seismic.html)| Drilling | Drilling fluid | Cementing |
-| Logging while Drilling | Wireline | Gyro survey | Mud logging service |
-| Testing | Production logging | Well integrity | Completion |
-| Artificial Lift | Perforation | Well Intervention | Enhance Oil Recovery |
-| Well control | | Whatever              |                    |
+Additional information can be found [here](./miscellaneous.html)
 
 * * *
-
-# Miscellaneous
-
-* * *
-
-# Oilfield Jumble series
-
-|[Oilfield Jumble 1](./pdfs/Oilfield Jumble 1_EN.pdf)| [Oilfield Jumble 2](./pdfs/Oilfield Jumble 2_EN.pdf)|
