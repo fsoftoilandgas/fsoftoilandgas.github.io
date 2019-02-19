@@ -4,7 +4,7 @@ layout: default
 
 ## Drilling and Completion
 
-# Drilling:
+### Drilling:
 
 A well is constructed from several different sections. In each section, the following main operations will typically take place:
 
@@ -20,7 +20,7 @@ A hole is drilled with a drill string and a drill bit attached at its end. The O
 
 During drilling operation, [drilling fluid](https://www.glossary.oilfield.slb.com/Terms/d/drilling_fluid.aspx) is pumped continuously into the hole to cool down downhole equipment and to bring [cuttings](https://www.glossary.oilfield.slb.com/Terms/c/cuttings.aspx) to surface for disposal.
 
-![Drill a Hole](./assets/img/holedrilling.png){:class="img-responsive"}
+![Drill a Hole](../assets/img/holedrilling.png){:class="img-responsive"}
 
 - <u>Casing Running</u>:
 
@@ -33,17 +33,17 @@ Casing with sufficient strength is run into the drilled borehole to support the 
    
 A casing that is hung inside another casing is called a liner (the top of the liner does not extend to surface or [wellhead](https://www.glossary.oilfield.slb.com/Terms/w/wellhead.aspx)).
 
-![Casing](./assets/img/casing.jpg){:class="img-responsive"}
+![Casing](../assets/img/casing.jpg){:class="img-responsive"}
 
 A casing string is constructed by connecting multiple casing joints together. The joints are connected at the couplings (connections) which have slightly larger OD than the casing.
 
-![Coupling](./assets/img/coupling.png){:class="img-responsive"}
+![Coupling](../assets/img/coupling.png){:class="img-responsive"}
 
 - <u>Casing Cementing</u>:
 
-![Cementing](./assets/img/cementing.jpg){:class="img-responsive"}
+![Cementing](../assets/img/cementing.jpg){:class="img-responsive"}
 
-# Completion:
+### Completion:
 
 - Well Logging
 - Tubing Running
@@ -53,12 +53,4 @@ A casing string is constructed by connecting multiple casing joints together. Th
 
 
 
-
-
-
-Text [link text.](https://en.wikipedia.org/wiki/Deepwater_Horizon_explosion)
-
-
-
-
-[back](./)
+[back](../)
