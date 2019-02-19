@@ -10,6 +10,6 @@ Software in the oilfield industry must adhere to the highest quality to ensure e
 
 Due to the hazadous environment, when accidents do occur, the result are usually castatrophic. The _Deepwater Horizon_ explosion is such a case. Read more about it [here.](https://en.wikipedia.org/wiki/Deepwater_Horizon_explosion)
 
-![Deepwater Horizon accident](./assets/img/deepwater.jpg)
+![Deepwater Horizon accident](../assets/img/deepwater.jpg)
 
-[back](./)
+[back](../)

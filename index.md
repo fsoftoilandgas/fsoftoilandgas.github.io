@@ -7,7 +7,7 @@ layout: default
 
 ## Safety is no accident!
 
-**First thing first**, the oil and gas industry is potentially one of the most **hazardous** industry sectors in the world. Safety is number one concern of every oil operator and oilfield services company. Read more [here.](./safety.html)
+**First thing first**, the oil and gas industry is potentially one of the most **hazardous** industry sectors in the world. Safety is number one concern of every oil operator and oilfield services company. Read more [here.](./subpages/safety.html)
 
 * * *
 
@@ -17,7 +17,7 @@ The oil and gas industry is usually divided into three major sectors: **upstream
 
 Click on the links below to explore each of these sectors.
 
-### | [Upstream](./upstream.html)		| [Midstream](./midstream.html)		| [Downstream](./downstream.html)	|
+### | [Upstream](./subpages/upstream.html)		| [Midstream](./subpages/midstream.html)		| [Downstream](./subpages/downstream.html)	|
 
 * * *
 
@@ -27,12 +27,12 @@ There are two types of company in the oil and gas industry: one that own and ope
 
 This section briefly explains the typical organization structure employed by these two type of company.
 
-### | [Operator - Oil Company](./operator.html) | [Services Company ](./service.html) |
+### | [Operator - Oil Company](./subpages/operator.html) | [Services Company ](./subpages/service.html) |
 
 * * *
 
 ## Miscellaneous
 
-Additional information can be found [here](./miscellaneous.html)
+Additional information can be found [here](./subpages/miscellaneous.html)
 
 * * *
