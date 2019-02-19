@@ -15,7 +15,7 @@ The table below lists some of the most common works and services that maybe carr
 ### Pre-drilling preparations 
 | Seismic survey | Oilfield mapping | Safety survey and assessment |
 ### Exploration and development - Drilling and related activities
-| Drilling | Drilling fluid | Gyro survey | Well control
+| [Drilling](../subpages/drilling.html) | Drilling fluid | Gyro survey | Well control
 | Mud logging | Logging - while drilling | Logging - Wireline
 | Casing service | Cementing | Well Integrity | Perforation
 | Testing | Production logging | Completion |
