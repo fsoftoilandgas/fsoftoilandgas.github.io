@@ -33,6 +33,6 @@ This section briefly explains the typical organization structure employed by the
 
 ## Miscellaneous
 
-Additional information can be found [here](./subpages/miscellaneous.html)
+Useful information and free utilites can be found [here](./subpages/miscellaneous.html)
 
 * * *
