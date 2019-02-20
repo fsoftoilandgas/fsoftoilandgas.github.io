@@ -39,11 +39,13 @@ A casing string is constructed by connecting multiple casing joints together. Th
 
 ### *<u>3. Casing Cementing</u>*
 
-Cement is used to hold casing in place and prevent fluid migration among layers of rocks.
+Cement is used to hold casing in place and prevent fluid migration between layers of rocks.
 
-Cement slurry is pumped through the inside of casing and exits to the [annulus](https://www.glossary.oilfield.slb.com/Terms/a/annulus.aspx) through the casing shoe. To prevent contamination, a [bottom plug](https://www.glossary.oilfield.slb.com/Terms/c/cementing_plug.aspx) is dropped inside the casing before cement is pumped, and a [top plug](https://www.glossary.oilfield.slb.com/Terms/c/cementing_plug.aspx) is dropped when all slurry has been pumped.
+Cement slurry is pumped through the inside of casing and exits to the [annulus](https://www.glossary.oilfield.slb.com/Terms/a/annulus.aspx) through the casing shoe. To prevent contamination, a [bottom plug](https://www.glossary.oilfield.slb.com/Terms/c/cementing_plug.aspx) is dropped inside the casing before cement is pumped, and a [top plug](https://www.glossary.oilfield.slb.com/Terms/c/cementing_plug.aspx) is dropped on top of the slurry column. Therefore, the cement column is always isolated between the 2 [plugs](https://www.glossary.oilfield.slb.com/Terms/c/cementing_plug.aspx) inside the casing.
 
-A [spacer](https://www.glossary.oilfield.slb.com/Terms/s/spacer.aspx) is pumped before the slurry to clean out the inside of the casing and avoid contamination.
+A [spacer](https://www.glossary.oilfield.slb.com/Terms/s/spacer.aspx) is usually pumped before the cement slurry to clean out the inside of the casing and the [annulus](https://www.glossary.oilfield.slb.com/Terms/a/annulus.aspx), avoiding contamination and improving cement bond.
+
+After the cement job has been completed and slurry has entered the [annulus](https://www.glossary.oilfield.slb.com/Terms/a/annulus.aspx), the top of the slurry column is called TOC (top of cement).
 
 ![Cementing](../assets/img/cementing.jpg)
 
