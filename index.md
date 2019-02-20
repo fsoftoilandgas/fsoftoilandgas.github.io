@@ -1,39 +1,38 @@
 ---
 layout: default
 ---
-
-# Safety is NO ACCIDENT!!!
-
-The oil and gas industry is potentially one of the most hazardous industry sectors in the world. Safety is number one concern of every oil operator and oilfield services company. Read more [here.](./safety.html)
+# Oil and Gas industry knowledges
 
 * * *
 
-# The Oilfield Life Cycle
+## Safety is no accident!
 
-### | [Upstream](./upstream.html)		| [Midstream](./midstream.html)		| [Downstream](./downstream.html)	|
-
-* * *
-
-# Organization in the Oilfield
-
-### | [Operator - Oil Company](./operator.html) | [Services Company ](./service.html) |
+**First thing first**, the oil and gas industry is potentially one of the most **hazardous** industry sectors in the world. Safety is number one concern of every oil operator and oilfield services company. Read more [here.](./subpages/safety.html)
 
 * * *
 
-## Offshore services
+## The Petroleum industry Life Cycle
 
-| [Geophysics](./geophysics.html)| [Drilling](./Drilling.htlm) | Drilling fluid | Cementing |
-| Logging while Drilling | Wireline | Gyro survey | Mud logging service |
-| Testing | Production logging | Well integrity | Completion |
-| Artificial Lift | Perforation | Well Intervention | Enhance Oil Recovery |
-| Well control | | Whatever              |                    |
+The oil and gas industry is usually divided into three major sectors: **upstream** (or **exploration and production - E&P**), **midstream** and **downstream**.
 
-* * *
+Click on the links below to explore each of these sectors.
 
-# Miscellaneous
+### | [Upstream](./subpages/upstream.html)		| [Midstream](./subpages/midstream.html)		| [Downstream](./subpages/downstream.html)	|
 
 * * *
 
-# Oilfield Jumble series
+## Organization in the Oilfield
 
-|[Oilfield Jumble 1](./pdfs/Oilfield Jumble 1_EN.pdf)| [Oilfield Jumble 2](./pdfs/Oilfield Jumble 2_EN.pdf)|
+There are two types of company in the oil and gas industry: one that own and operate the oilfield, and produce petroleum related products, called "Oil company" (also called "Operator"), and the other are companies that provide the services to the industry, called "Service company".
+
+This section briefly explains the typical organization structure employed by these two type of company.
+
+### | [Operator - Oil Company](./subpages/operator.html) | [Services Company ](./subpages/service.html) |
+
+* * *
+
+## Miscellaneous
+
+Useful information and free utilites can be found [here](./subpages/miscellaneous.html)
+
+* * *
