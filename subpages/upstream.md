@@ -10,11 +10,14 @@ Nearly all of the more commonly known activities in the oil and gas industry hap
 
 Upstream activity usually start with performing neccessary survey to idenfity potential field, then drilling wells to acquire data for analysis. If the field has economic value, it will be developed to produce oil (and/or gas). When the production declines to below the economic value, decision will be made to stop production and decommision is done to safely shut down the field.
 
-### Seismic exploratory survey
+### Seismic Exploration
+
+#### [Seismic Acquisition](./seismicsurvey.html)		|		[Seismic Interpretation](./seismicinterpretation.html)
 
 Seismic surveys produce detailed images of the various rock types and their location beneath the Earth's surface. This information is used to determine the location and size of oil and gas reservoirs.
 
-Seismic survey is the first operation to take place before an oilfield can be worked on. Read more about it [here](../subpages/geophysics.html)
+The seismic method is based on the propagation of elastic waves in the earth and their reflection and refraction due to changes in the earth's velocity-density distribution. Active sources of energy are required; dynamite, air guns, and chirp signal generators are the most widely used sources. 
+Detection of faint pressure or particle motion at or near the surface is achieved by use of sensitive pressure gauges or geophones. The received signal is amplified, recorded (usually by digital methods), processed (usually in a computer), and displayed in a form that is interpretable in terms of geologic structure, stratigraphy, and hydrocarbon content. Read more about it [here](https://en.wikipedia.org/wiki/Reflection_seismology).
 
 ### Exploration and Development work on the oilfield
 
@@ -38,7 +41,7 @@ During the production phase, various other works maybe carried out in the wells 
 
 ### Software services
 
-Software is a vital part of the oil and gas industry. Software is used to analyze vast amount of available data, making sense of it all, and to assist the company in making the right decision. During the exploration and development phase, there are many type of software package used to perform data analysis. Below is the list of some of those common software.
+Software is a vital part of the oil and gas industry. Software is used to analyze vast amount of available data, making sense of it all, and to assist the company in making the right decision. During the exploration and development phase, there are many type of software package used to perform data analysis. Below is the list of some of those common softwares.
 
 | Drilling | Geomechanics | Petrophysics 
 | Geology & Geophysics | Production & Reservoir | Integrated platform |
