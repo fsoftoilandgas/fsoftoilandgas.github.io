@@ -15,7 +15,7 @@ The list of G&G application is as below:
 
 
 ![3DSeismic_view](../assets/img/3DSeismic_View.jpg)
-G&G Product
+G&G Products
 {: style="text-align: center;"}
 * * *
 [Back](./upstream.html)
