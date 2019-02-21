@@ -45,6 +45,7 @@ Software is a vital part of the oil and gas industry. Software is used to analyz
 
 | Drilling | Geomechanics | Petrophysics 
 | Geology & Geophysics | Production & Reservoir | Integrated platform |
+| [Geology & Geophysics](../subpages/G&G_Software.html) | Production & Reservoir | Integrated platform |
 
 
 
