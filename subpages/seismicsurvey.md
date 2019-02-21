@@ -33,4 +33,4 @@ Seismic acquisition can be performed both on land and in marine environments by 
 **Fig.4:** 3D Seismic Design
 {: style="text-align: center;"}
 * * *
-[Back](./geophysics.html)
+[Back](./upstream.html)

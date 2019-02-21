@@ -18,4 +18,4 @@ Based on the result of interpretation, geophysicists and geologists will be anal
 
 For the more details, please visit a lecture [here](https://slideplayer.com/slide/703696/)
 * * *
-[Back](./geophysics.html)
+[Back](./upstream.html)
