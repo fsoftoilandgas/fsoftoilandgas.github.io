@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Seismic Acquisition
+## Seismic Acquisition
 The seismic survey is an essential part of the
 whole cycle of petroleum exploration and production.
 Seismic surveys are carried out on land and in transition
@@ -33,4 +33,4 @@ Seismic acquisition can be performed both on land and in marine environments by 
 **Fig.4:** 3D Seismic Design
 {: style="text-align: center;"}
 * * *
-[Back](./geophysics.html)
+[Back](./upstream.html)
