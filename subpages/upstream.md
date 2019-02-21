@@ -44,6 +44,7 @@ During the production phase, various other works maybe carried out in the wells 
 Software is a vital part of the oil and gas industry. Software is used to analyze vast amount of available data, making sense of it all, and to assist the company in making the right decision. During the exploration and development phase, there are many type of software package used to perform data analysis. Below is the list of some of those common softwares.
 
 | Drilling | Geomechanics | Petrophysics 
+| Geology & Geophysics | Production & Reservoir | Integrated platform |
 | [Geology & Geophysics](../subpages/G&G_Software.html) | Production & Reservoir | Integrated platform |
 
 
