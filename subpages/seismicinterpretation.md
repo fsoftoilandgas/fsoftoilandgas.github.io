@@ -12,7 +12,7 @@ Seismic interpretation workflow
 {: style="text-align: center;"}
 
 ![seismicsection](../assets/img/Seismicsection.png)
- Seismic section
+ Seismic interpretation products
 {: style="text-align: center;"}
 
 
