@@ -17,14 +17,13 @@ between two layers with different acoustic properties
 measure the reflected acoustic energy, converting
 it into an electrical signal that is displayed as a seismic
 trace. Read more about it [here.](http://www.parkseismic.com/Whatisseismicsurvey.html)
-{: style="text-align: justify;"}
 
 ![Seismic_trace](../assets/img/Seismictrace.jpg)
 Seismic traces
 {: style="text-align: center;"}
 
 Seismic acquisition can be performed both on land and in marine environments by using [2D](https://www.youtube.com/watch?v=1iR20AUGzeo) or [3D](https://www.youtube.com/watch?v=sWtymRNbqaE) seismic method.
-{: style="text-align: justify;"}
+
 ![2D_Seismic](../assets/img/2D_Seismic.jpg)
 2D Seismic Design
 {: style="text-align: center;"}

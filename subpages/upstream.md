@@ -28,7 +28,7 @@ When the field proves to have economic value, works will continue to get the fie
 Below are some of the most common works and services that maybe carried out during the drilling of wells and their related activities.
 
 | [Drilling](../subpages/drilling.html) | Drilling fluid | Gyro survey | Well control
-| Mud logging | Logging - while drilling | Logging - Wireline
+| Mud logging | [Logging - while drilling](../subpages/lwd.html) | [Logging - Wireline](../subpages/wireline.html)
 | Casing service | Cementing | Well Integrity | Perforation
 | Testing | Production logging | Completion |
 
