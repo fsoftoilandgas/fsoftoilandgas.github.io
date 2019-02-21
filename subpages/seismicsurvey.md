@@ -20,7 +20,8 @@ trace. Read more about it [here.](http://www.parkseismic.com/Whatisseismicsurvey
 {: style="text-align: justify;"}
 
 ![Seismic_trace](../assets/img/Seismictrace.jpg)
-
+Seismic traces
+{: style="text-align: center;"}
 
 Seismic acquisition can be performed both on land and in marine environments by using [2D](https://www.youtube.com/watch?v=1iR20AUGzeo) or [3D](https://www.youtube.com/watch?v=sWtymRNbqaE) seismic method.
 {: style="text-align: justify;"}
