@@ -45,8 +45,6 @@ Cement slurry is pumped through the inside of casing and exits to the [annulus](
 
 A [spacer](https://www.glossary.oilfield.slb.com/Terms/s/spacer.aspx) is usually pumped before the cement slurry to clean out the inside of the casing and the [annulus](https://www.glossary.oilfield.slb.com/Terms/a/annulus.aspx), avoiding contamination and improving cement bond.
 
-After the cement job has been completed and slurry has entered the [annulus](https://www.glossary.oilfield.slb.com/Terms/a/annulus.aspx), the top of the slurry column is called TOC (top of cement).
-
 ![Cementing](../assets/img/cementing.jpg)
 
 
