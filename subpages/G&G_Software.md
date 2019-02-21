@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# G&G Software
+## G&G Software
 Geology & Geophysics application are very useful tool for geologists and geophysicists to interpret seismic data, geological data, evaluate 
 and prioritize prospects before drilling.
 The list of G&G application is as below:
@@ -15,7 +15,7 @@ The list of G&G application is as below:
 
 
 ![3DSeismic_view](../assets/img/3DSeismic_View.jpg)
-Seismic Interpretation Result
+G&G Products
 {: style="text-align: center;"}
 * * *
 [Back](./upstream.html)

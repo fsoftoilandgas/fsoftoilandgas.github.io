@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Seismic Acquisition
+## Seismic Acquisition
 The seismic survey is an essential part of the
 whole cycle of petroleum exploration and production.
 Seismic surveys are carried out on land and in transition
