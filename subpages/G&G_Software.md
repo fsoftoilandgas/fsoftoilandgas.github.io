@@ -7,7 +7,7 @@ Geology & Geophysics application are very useful tool for geologists and geophys
 and prioritize prospects before drilling.
 The list of G&G application is as below:
 {: style="text-align: justify;"}
-- [DecisionSpaceDesktop](https://www.landmark.solutions/DecisionSpace-Geosciences-10)
+- [DecisionSpace Geosciences](https://www.landmark.solutions/DecisionSpace-Geosciences-10)
 
 - [Petrel](https://www.software.slb.com/products/petrel)
 
