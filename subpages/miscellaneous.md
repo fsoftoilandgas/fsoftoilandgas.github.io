@@ -12,6 +12,10 @@ Prepared by our own Oil and Gas SME. A quick introduction of different parts and
 
 A valuable source of all oilfield jargons, explained by Schlumberger, the world largest oilfield service company. See it [here](https://www.glossary.oilfield.slb.com/).
 
+## Nomenclature
+
+[Nomenclature](./nomenclature.html)
+
 ## Oilfield free software utilities
 
 A collection of several good and free software utilities provided by Schlumberger, Halliburton and the like.
