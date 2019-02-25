@@ -27,27 +27,27 @@ When the field proves to have economic value, works will continue to get the fie
 
 Below are some of the most common works and services that maybe carried out during the drilling of wells and their related activities.
 
-| [Drilling](../subpages/drilling.html) | Drilling fluid | Gyro survey | Well control
-| Mud logging | [Logging - while drilling](../subpages/lwd.html) | [Logging - Wireline](../subpages/wireline.html)
-| Casing service | Cementing | Well Integrity | Perforation
-| Testing | Production logging | Completion |
+#### | [Drilling](../subpages/drilling.html) | Drilling fluid | Gyro survey | Well control
+#### | Mud logging | [Logging - while drilling](../subpages/lwd.html) | [Logging - Wireline](../subpages/wireline.html)
+#### | Casing service | Cementing | Well Integrity | Perforation
+#### | Testing | Production logging | Completion
 
 ### Production and ongoing maintenance
 
 During the production phase, various other works maybe carried out in the wells which aim to improve the field's production rate. Some of the common services to be done during this phase is listed below.
 
-| Artificial Lift | Well Intervention | Enhance Oil Recovery
-| Coil-tubing | Slickline | Production monitoring |
+#### | Artificial Lift | Well Intervention | Enhance Oil Recovery
+#### | Coil-tubing | Slickline | Production monitoring
 
 ### Software services
 
 Software is a vital part of the oil and gas industry. Software is used to analyze vast amount of available data, making sense of it all, and to assist the company in making the right decision. During the exploration and development phase, there are many type of software package used to perform data analysis. Below is the list of some of those common softwares.
 
-| [Drilling](../subpages/drilling_software.html) | Geomechanics | Petrophysics
-| [Geology & Geophysics](../subpages/g&g_software.html) | [Production & Reservoir](../subpages/prod&res_software.html) | Integrated platform |
+#### | [Drilling](../subpages/drilling_software.html) | Geomechanics | Petrophysics
+#### | [Geology & Geophysics](../subpages/g&g_software.html) | [Production & Reservoir](../subpages/prod&res_software.html) | Integrated platform
 
 
 
-* * *
+
 
 [back](../)
