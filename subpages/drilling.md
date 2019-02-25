@@ -47,6 +47,4 @@ A [spacer](https://www.glossary.oilfield.slb.com/Terms/s/spacer.aspx) is usually
 
 ![Cementing](../assets/img/cementing.jpg)
 
-
-
 [back](./upstream.html)
