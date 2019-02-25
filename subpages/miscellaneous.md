@@ -12,9 +12,13 @@ Prepared by our own Oil and Gas SME. A quick introduction of different parts and
 
 A valuable source of all oilfield jargons, explained by Schlumberger, the world largest oilfield service company. See it [here](https://www.glossary.oilfield.slb.com/).
 
+## PetroWiki
+
+[PetroWiki](https://petrowiki.org/): a wiki created from the Petroleum Engineering Handbooks published by the Society of Petroleum Engineers (SPE). The content is moderated by SME's to ensure that the information is technically accurate.
+
 ## Nomenclature
 
-[Nomenclature](./nomenclature.html)
+[Nomenclature](./nomenclature.html): a list of commonly used terms in the oil and gas industry.
 
 ## Oilfield free software utilities
 
