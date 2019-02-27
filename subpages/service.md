@@ -32,6 +32,8 @@ For more info on each specific group of segment in Schlumberger and what they do
 
 ### Halliburton
 
+
+
 ### BakerHuges
 
 BakerHuges was acquired by General Electric in 2016. Combined with GE's own Oil and Gas company, BakerHuges - a GE company - is now a fullstream Oilfield service company.

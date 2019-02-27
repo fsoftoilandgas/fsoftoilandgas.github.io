@@ -7,7 +7,7 @@ layout: default
 
 ## Safety is no accident!
 
-**First thing first**, the oil and gas industry is potentially one of the most **hazardous** industry sectors in the world. Safety is number one concern of every oil operator and oilfield services company. Read more [here.](./subpages/safety.html)
+**First thing first**, the oil and gas industry is potentially one of the most **hazardous** industry sector in the world. Safety is number one concern of every oil operator and oilfield services company. Read more [here.](./subpages/safety.html)
 
 * * *
 
